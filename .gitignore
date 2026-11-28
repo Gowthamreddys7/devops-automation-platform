@@ -6,3 +6,10 @@ __pycache__/
 .env
 .DS_Store
 .vscode/
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+crash.log
